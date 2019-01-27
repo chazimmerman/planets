@@ -1,5 +1,9 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
+<<<<<<< HEAD
 We should definitly NOT consider venus as a base
 NOO I MESSED THIS UP WHAT CAN I DOOOO???
+=======
+We should definitly consider venus as a baseø
+>>>>>>> parent of 2d3e9b4... NO VENUS PLEASE
